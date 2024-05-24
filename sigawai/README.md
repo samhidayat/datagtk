@@ -1,2 +1,2 @@
 # sistem-capil
-Website Sistem Informasi Kepegawaian Dinas Kependudukan dan Catatan Sipil Provinsi Sulawesi Selatan
+Website aplikasi Sistem Informasi Pegawai MIN 2 Kota Surabaya
