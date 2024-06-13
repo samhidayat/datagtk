@@ -1,6 +1,6 @@
 <?php
 // Koneksi Database
-$koneksi = mysqli_connect("localhost", "u1718936_data_gtk_min2_2", "alya04052007", "u1718936_data_gtk_min2_1");
+$koneksi = mysqli_connect("localhost", "root", "password", "sigawai");
 
 // membuat fungsi query dalam bentuk array
 function query($query)
